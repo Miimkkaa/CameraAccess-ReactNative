@@ -5,7 +5,7 @@ I explored this topic because a huge part of my daily routine includes spending 
 I recently discovered how interested I am in the mobile development field. For this reason, I decided to explore React Native and Expo CLI that allow you to create mobile apps for both IOS and Android using one codebase. A big advantage of Expo CLI is that it handles many functionalities for you. One example is the permissions which I explored a bit in this project and they are handled automatically by Expo.
  
 ## Demo
-![](name-of-giphy.gif)
+![](https://github.com/Miimkkaa/CameraAccess-ReactNative/blob/main/Animated%20GIF-downsized_large.gif)
 
 ## Tech/framework used
 
