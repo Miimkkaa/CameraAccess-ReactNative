@@ -31,6 +31,7 @@ export const CameraPage = () => {
 
     const {status} = await MediaLibrary.requestPermissionsAsync()
     console.log(status)
+    
     if (status === 'granted') {
       MediaLibrary.saveToLibraryAsync(photo.uri)
     } else {
